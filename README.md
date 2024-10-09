@@ -42,15 +42,13 @@
 2. Клонируйте репозиторий:
 
     ```bash
-git@github.com:Alexei125/personaldiary.git
+   git@github.com:Alexei125/personaldiary.git 
     ```
 
 3. Запустите контейнеры с помощью Docker Compose:
 
     ```bash
     docker-compose up --build
-    ```
-
 4. Приложение будет доступно по адресу `http://127.0.0.1:8000/`.
 
 ### Переменные окружения
